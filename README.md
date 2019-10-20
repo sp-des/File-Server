@@ -13,7 +13,7 @@ server just put the file path as any directory and you'll only be able to see wh
 `npm install`   
 `node File_server.js`
 
-In your web browser go to: http://localhost:8080/
+In your web browser go to: http://localhost:8080/   
 To be able to view it using another device download a tunneling platform of your choosing.
 I recomend [Ngrok](https://ngrok.com/)
 
