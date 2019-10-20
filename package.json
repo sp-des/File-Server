@@ -1,0 +1,16 @@
+{
+  "name": "file_server",
+  "version": "1.0.0",
+  "description": "Be able to access the contents of your computer on any device.",
+  "main": "File_server.js",
+  "scripts": {
+    "test": "node File_server.js"
+  },
+  "author": "Spades",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^4.1.2",
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
+}
