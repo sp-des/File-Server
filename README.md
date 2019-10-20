@@ -1,5 +1,5 @@
 # File-Server
-Be able to access the contents of your computer on any device, anywhere.
+Be able to access the contents of your computer on any device, anywhere. 
 
 ### Before usage:
 
@@ -18,3 +18,6 @@ To be able to view it using another device download a tunneling platform of your
 I recomend [Ngrok](https://ngrok.com/)
 
 Whith Ngrok downloaded use this command: `./ngrok http 8080`
+
+
+Note, you can only view and download contents on the server. You cannot upload...for now...
