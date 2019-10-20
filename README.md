@@ -9,7 +9,7 @@ server just put the file path as any directory and you'll only be able to see wh
 
 ### Usage:
 
-`cd filepath/File_server`   
+`cd ThisFoldersFilePath`   
 `npm install`   
 `node File_server.js`
 
