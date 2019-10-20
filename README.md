@@ -9,6 +9,6 @@ server just put the file path as any directory and you'll only be able to see wh
 
 ### Usage:
 
-'npm install'
-'node File_server.js'
+`npm install`
+`node File_server.js`
 
